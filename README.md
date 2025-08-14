@@ -66,10 +66,8 @@ streamlit run brmain.py
 ```
 ---
 ## 📸 Screenshots
-<img width="1366" height="625" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/fa1b82a3-0efb-4be3-a0af-e9a8e5b841fe" />
-<img width="1366" height="617" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/6c92ddc5-b7a6-49ca-9040-95b9ed7a1eab" />
-<img width="1366" height="606" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/d2bea921-42c4-4f99-b842-328d4f233771" />
-<img width="1366" height="617" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/7bfdd408-c494-4500-b89a-c88472345c97" />
+![book recommendation system](https://github.com/user-attachments/assets/b0b9aad2-b07d-4fe1-9d3b-0d454cf28686)
+
 
 
 
